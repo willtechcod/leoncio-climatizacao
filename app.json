@@ -1,8 +1,13 @@
 {
   "expo": {
-    "name": "Leoncio Climatizacao",
-    "slug": "Leôncio Climatização",
+    "name": "leoncio-climatizacao",
+    "slug": "leoncio-climatizacao",
     "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1d1d2e"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -10,11 +15,11 @@
       "@react-native-firebase/app"
     ],
     "android": {
-      "package": "com.rockethelp",
+      "package": "com.wiltechcode.leoncioclimatizacao",
       "googleServicesFile": "./google-services.json"
     },
     "ios": {
-      "bundleIdentifier": "com.rockethelp",
+      "bundleIdentifier": "com.wiltechcode.leoncioclimatizacao",
       "googleServicesFile": "./GoogleService-Info.plist"
     }
   }
