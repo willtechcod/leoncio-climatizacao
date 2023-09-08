@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "791229360370",
+    "project_id": "leoncio-f63c4",
+    "storage_bucket": "leoncio-f63c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791229360370:android:c7d7cecfd0339de594c86b",
+        "android_client_info": {
+          "package_name": "com.willtech.leoncioclimatizacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791229360370-nvsfpaput5s7m0hc8gnetn1ajnkhgeiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAeGIX-K4h3ZSEWMlXx8twssAlQajK8s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791229360370-nvsfpaput5s7m0hc8gnetn1ajnkhgeiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791229360370:android:45329caff63f50e994c86b",
+        "android_client_info": {
+          "package_name": "com.wiltechcode.leoncioclimatizacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791229360370-nvsfpaput5s7m0hc8gnetn1ajnkhgeiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAeGIX-K4h3ZSEWMlXx8twssAlQajK8s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791229360370-nvsfpaput5s7m0hc8gnetn1ajnkhgeiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
